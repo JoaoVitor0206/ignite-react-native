@@ -1,14 +1,18 @@
-# Ignite Lab React Native - RocketHelp
+# Ignite Lab #03 - RocketHelp
 
-Project developed by <b>RocketSeat</b> which proposes to study the development of a mobile solution with <b>ReactNative</b>. <br/>
-### Context
-Develop a simulation of a company's <i>"help service desk"</i>. In this scenario, it will be possible to report defective equipment (assets), as well as register a treatment for the same.
+Projeto elaborado pela <b>roketSeat</b> que tem como proposta o estudo no desenvolvimento de uma solução mobile com <b>ReactNative</b>. <br/>
+### Contexto
+Desenvolver uma simulação de um <i>"help service desk"</i> de uma empresa. Neste senário será possível reportar equipamentos (patrimônios) com defeito, como também, registrar uma tratativa para o mesmo.
 
-### Goals
- - Create and configure a project with Expo bare workflow
- - Use the <b>native-base</b> library to create screens and components;
- - Perform authentication through Firebase authentication
- - Integrate the application with the database Firebase firestore in real time.
+### Objetivos
+ - Criar e configurar um projeto com o ![Expo bare workflow](https://docs.expo.dev/bare/exploring-bare-workflow/);
+ - Utilzar a biblioteca <b>native-base</b> para criação de telas e componentes;
+ - Realizar autenticação através do ![Firebase authentication](https://firebase.google.com/);
+ - Integrar a aplicação com o banco de dados ![Firebase firestore](https://firebase.google.com/) em tempo real. 
+
+### OBSERVAÇÃO
+
+O repositório foi dividido intencionalmente em branches com as respectivas aulas, ministradas pelo professor ![Rodrigo Gonçalves](https://github.com/rodrigorgtic), totalizando então 3 aulas, sendo da aula-2 até a aula-4.
 
 ---
 
